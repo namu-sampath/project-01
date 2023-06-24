@@ -3,11 +3,11 @@
 This is a repository of an analysis of three years of my personal tv watching habits taken from my original [Google Drive spreadsheet](https://docs.google.com/spreadsheets/d/18k4Fz02x1VXgSbI4WbPkUuSoTdogD4LEDrniXcm7as4/edit#gid=0)
 
 
-*What I aimed to accomplish* 
+## What I aimed to accomplish
 
 I thought it would be interesting to take a look at what I watch on TV, which platforms I watch TV on the most, and my favorite genres, and how many shows I average per year. Because I already had an existing spreadsheet that I frequently update, I figured it would be easiest to just analyze this information; however, I also wanted (and potentially could for a future project) to understand how my reviews and watching patterns compare to other viewers' reviews and watching patterns. 
 
-*My Findings*
+## My Findings
 
 First and foremost, I am most shocked by what the data says is my most watched genre: 'Teen Dramas.' 
 
@@ -19,7 +19,7 @@ I also found that I only scored three of the 138 shows I watched below a 5. Inte
 
 Additionally, I found that Netflix is my most used streaming platform. Going forward, with the new [Netflix policy](https://about.netflix.com/en/news/an-update-on-sharing) about account sharing, I am interested to see how these numbers might not only change for me, but other viewers as well. 
 
-*Data Collection Process*
+## Data Collection Process
 
 As I used data that I already had spent a lot of time with, the data collection process for me was not much about scraping or cleaning, and much more about consolidating what I thought would be the most interesting to discover. 
 
