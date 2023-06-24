@@ -27,8 +27,7 @@ For ease, I used Jupyter Notebooks to parse through my data using pandas.
 
 ## Installation
 
-``` pip install pandas 
-```
+pip install pandas 
 
 ## Usage
 ```python
