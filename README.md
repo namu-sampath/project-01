@@ -1,4 +1,4 @@
-# # Net(flexing) My Streaming Habits
+## Net(flexing) My Streaming Habits
  
 This is a repository of an analysis of three years of my personal tv watching habits taken from my original [Google Drive spreadsheet] (https://docs.google.com/spreadsheets/d/18k4Fz02x1VXgSbI4WbPkUuSoTdogD4LEDrniXcm7as4/edit#gid=0)
 
