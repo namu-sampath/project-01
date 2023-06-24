@@ -53,7 +53,7 @@
             max-width: 600px;
             margin: auto; 
             font-size: 18px; 
-            padding-bottom: 50px;
+            padding-bottom: 25px;
         }
 
         iframe {
@@ -63,50 +63,75 @@
                 border: none; 
                 display: block;
             }
+            
 
         iframe2 {
                 width: 100%; 
-                max-width: 550px; 
+                max-width: 700px; 
                 margin: auto; 
+                align-items: center;
                 border: none; 
                 display: block;
                 padding-bottom: 1000px;
             }
+        
+        iframe3 {
+                width: 100%; 
+                max-width: 700px; 
+                margin: auto; 
+                align-items: center;
+                border: none; 
+                display: block;
+                padding-bottom: 1000px;
+        }
 
-        p1 {
+        #p1, #p2, #p3 {
             text-align: left; 
             font-weight: normal; 
             font-family: georgia;
             max-width: 600px; 
             font-size: 18px; 
-            padding-top: 50px;
-            padding-bottom: 50px;
+            padding-top: 25px;
+            padding-bottom: 25px;
+            margin: auto;
         }
+
+        /* #p2 {
+            text-align: left; 
+            font-weight: normal; 
+            font-family: georgia;
+            max-width: 600px; 
+            font-size: 18px; 
+            padding-top: 25px;
+            padding-bottom: 25px;
+        } */
+
+        /* #p3 {
+            text-align: left; 
+            font-weight: normal; 
+            font-family: georgia;
+            max-width: 600px; 
+            font-size: 18px; 
+            padding-top: 25px;
+            padding-bottom: 25px;
+        } */
 
         endtext {
             max-width: 100px;
             max-height: 100px;
             margin: auto; 
             text-align: left;
-            padding-top: 50px;
-            padding-bottom: 50px;
-        }
-
-        p2 {
-            text-align: left; 
-            font-weight: normal; 
-            font-family: georgia;
-            max-width: 600px; 
-            font-size: 18px; 
-            padding-top: 50px;
-            padding-bottom: 50px;
+            padding-top: 25px;
+            padding-bottom: 25px;
         }
         
-        background
+        background {
             background-size: 100%;
             background-position: center;
             background-color: #efebe8;
             background-size: cover;
+        }
+
 		</style>
 	
     </head>
@@ -122,16 +147,16 @@
 
 		<div id="p">
                 <p>Like everyone else who was stuck at home, bored during the pandemic, I tried to find my 'thing.' From trying Dalgona coffee, to making a separate Instagram account for all the recipes I was trying, to doom scrolling on TikTok, to doing Chloe Ting's workout videos in my parents' garage, I just about tried it all. That is, until I started watching 'Tiger King' on Netflix.</p>
-				<p> What started as a little hobby of watching (and binging) TV series became a full blown big Google Sheets document reviewing TV shows I've seen over a three-year span from 2020-2023. </p>
+				<p> What started as a little hobby of watching (and binging) TV series became a full blown, big Google Sheets spreadsheet reviewing the TV shows I've watched over the last three years. </p>
                 <p> In my original spreadsheet, I broke down my reviews of the TV shows I was watching by: Name of Show, Genre, Number of Seasons, Rating (mainly out of 10, with a few exceptions), Streaming Platform, and Notes (or my personal reviews of the shows.)</p>
                 <p> For this analysis, I used my spreadsheet to analyze my personal watching habits: the genres I watch, the streaming platform I use the most, which year over the last three years I watched the most TV, and more.</p>
         </div>
 				
 	
 		<div id="iframe">
-                <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" 
-                width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FGNO8DYwpS3LU0VCEayigWL%2FIconify-(Community)%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DzxYyczl58tq9X464-1" 
-                allowfullscreen></iframe>
+			<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFJhlFbV43REAdBt9vJ5l9M%2FPersonal-Streaming-Site-Popularity-(Community)%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DCqbIPCxXSmBbIyCA-1" allowfullscreen>
+            </iframe>	
+			</div>
             <div id="p1">      
 		        <p> I found that my most used streaming platform is Netflix — with 82 watched shows — and it is slowly followed by Hulu, with 22 watched shows. My least used streaming platform is Apple TV, where I watched one show — 'The Morning Show,' which had a star-studded cast including Steve Carrell, Jennifer Aniston, and Reese Witherspoon. </p>
             </div>
@@ -142,12 +167,29 @@
             <iframe title="Streaming habits per genre" aria-label="Election Donut" id="datawrapper-chart-JNatV" src="https://datawrapper.dwcdn.net/JNatV/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="495" data-external="1"></iframe>
         </div>
 
-		<div id="endtext">
-			<div id="p2">
+		<div id="p2">
+			<div id="p">
 				<p>Per my analysis of my TV watching habits, I learned that my most favorite genre, contrary to what I thought I knew about myself, are 'Teen Dramas.'</p>
                 <p>I have always loved crime TV and 'WhoDunIt?' shows, so naturally, I thought that would top any other genre. Unsurprisingly to me, however, I learned that my least watched genre is 'Sci-Fi'.</p>	
             </div>
 		</div>
+
+        <div id="iframe3">
+            <iframe title="2022 was a big year for streaming ... for me" aria-label="Bar Chart" id="datawrapper-chart-a0iNy" src="https://datawrapper.dwcdn.net/a0iNy/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="245" data-external="1">
+            </iframe>
+        </div>
+
+        <div id="endtext">
+			<div id="p3">
+				<p>According to my analysis, I watch between 25-35 shows per year; however, in 2022, I nearly doubled this amount — having watched 51 shows. This year, I am on track to surpass last year's number.</p>
+                <p></p>	
+            </div>
+		</div>
+
+
+
+
+        </div>
 
 	</body>
 </html>
