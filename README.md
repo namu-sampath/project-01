@@ -73,7 +73,7 @@ Unlike my approach to my data, I built my ```index.html``` on VS Code. I copied 
 ## What would I do differently next time?
 If given more time to pursue this project, I would've reached out to each of the streaming platforms to request viewers' TV watching information as it related to my analysis. I would have also tried to delve into IMDb's and Letterbox'd's APIs to take a look at whether my reviews reflect those of a greater audience. 
 
-If I had known how to change the background color of my webpage, I would've liked it to be a different color other than white. I think I also would have wanted to make my data interactive somehow, so that if someone were viewing my data in the future, they could put in a show that they really liked and see how it fared compared to my ratings as well as other viewers. 
+If I had known how to change the background color of my webpage, I would've liked it to be a different color other than white. I think I also would have wanted to make my data interactive somehow, so that if someone were viewing my data in the future, they could put in a show that they really liked (or hated) and see how it fared compared to my ratings as well as other viewers' ratings. 
 
 
 
