@@ -75,7 +75,7 @@ If I had known how to change the background color of my webpage, I would've like
 
 
 ## What would I do differently next time?
-If given more time to pursue this project, I would've reached out to each of the streaming platforms to request viewers' TV watching information as it related to my analysis. I would have also tried to delve into imdB's and Letterbox'd's APIs to take a look at whether my reviews reflect those of a greater audience. 
+If given more time to pursue this project, I would've reached out to each of the streaming platforms to request viewers' TV watching information as it related to my analysis. I would have also tried to delve into IMDb's and Letterbox'd's APIs to take a look at whether my reviews reflect those of a greater audience. 
 
 
 
