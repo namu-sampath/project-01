@@ -58,6 +58,22 @@ To understand my data better, I used [Datawrapper](https://www.datawrapper.de/) 
 
 I also used [Figma's Iconify feature](https://www.figma.com/community/plugin/735098390272716381/Iconify) to add an artistic perspective to one of my bar charts - referring to my streaming platform breakdown. 
 
+## New skills and approaches
+I am brand new to coding, Github, making data visualizations, and HTML/CSS. So really, this whole project was a learning curve for me. My favorite thing we've learned so far (in terms of coding), is pandas. I feel like it has really helped me see that data does not have to be so scary to understand. Sure, overwhelming at times, but nothing I can't handle. 
+
+*Coding*
+Using Jupyter Notebooks also made using pandas easier for me to understand visually because it was simpler to follow.
+
+*Visualizations*
+As I mentioned before, I used both Datawrapper and Figma to visualize my data. This was, by far, the most creative side of my project, I am glad I was able to see a sketch I had in my head of a prototype for the visualizations become reality on my webpage. 
+
+*Webpage*
+Unlike my approach to my data, I built my ```index.html``` on VS Code. I copied styles from previous Lede students and organized the page using my own stylistic choices. I played around a lot with CSS to find what worked best for me. 
+
+## Newer skills and approaches
+If I had known how to change the background color of my webpage, I would've liked it to be a different color other than white. I think I also would have wanted to make my data interactive somehow, so that if someone were viewing my data in the future, they could put in a show that they really liked and see how it fared compared to my ratings as well as other viewers. 
+
+
 ## What would I do differently next time?
 If given more time to pursue this project, I would've reached out to each of the streaming platforms to request viewers' TV watching information as it related to my analysis. I would have also tried to delve into imdB's and Letterbox'd's APIs to take a look at whether my reviews reflect those of a greater audience. 
 
