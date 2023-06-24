@@ -1,6 +1,6 @@
 ## Net(flexing) My Streaming Habits
  
-This is a repository of an analysis of three years of my personal tv watching habits taken from my original [Google Drive spreadsheet] (https://docs.google.com/spreadsheets/d/18k4Fz02x1VXgSbI4WbPkUuSoTdogD4LEDrniXcm7as4/edit#gid=0)
+This is a repository of an analysis of three years of my personal tv watching habits taken from my original [Google Drive spreadsheet](https://docs.google.com/spreadsheets/d/18k4Fz02x1VXgSbI4WbPkUuSoTdogD4LEDrniXcm7as4/edit#gid=0)
 
 
 *What I aimed to accomplish* 
@@ -17,7 +17,7 @@ To me, teen dramas are shows that include themes of romance, drama, and comedy, 
 
 I also found that I only scored three of the 138 shows I watched below a 5. Interestingly, two of those shows were reality TV (Bling Empire and Koffee with Karan). Both were also directed toward being an influencer or celebrity, or to an audience of people who enjoy learning about influencers and celebrities. 
 
-Additionally, I found that Netflix is my most used streaming platform. Going forward, with the new [Netflix policy] (https://about.netflix.com/en/news/an-update-on-sharing) about account sharing, I am interested to see how these numbers might not only change for me, but other viewers as well. 
+Additionally, I found that Netflix is my most used streaming platform. Going forward, with the new [Netflix policy](https://about.netflix.com/en/news/an-update-on-sharing) about account sharing, I am interested to see how these numbers might not only change for me, but other viewers as well. 
 
 *Data Collection Process*
 
@@ -55,11 +55,11 @@ I then came up with a few questions that I was most interested to know:
 6. What are my top 5 (and top 10) most watched genres?
 
 ## Visuals
-To understand my data better, I used [Datawrapper] (https://www.datawrapper.de/) to make two bar charts (one horizontal and one vertical) and one 'election donut', which I used to break down my top five genres. 
+To understand my data better, I used [Datawrapper](https://www.datawrapper.de/) to make two bar charts (one horizontal and one vertical) and one 'election donut', which I used to break down my top five genres. 
 
-I also used [Figma's Iconify feature] (https://www.figma.com/community/plugin/735098390272716381/Iconify) to add an artistic perspective to one of my bar charts - referring to my streaming platform breakdown. 
+I also used [Figma's Iconify feature](https://www.figma.com/community/plugin/735098390272716381/Iconify) to add an artistic perspective to one of my bar charts - referring to my streaming platform breakdown. 
 
-*What would I do differently next time?*
+## What would I do differently next time?
 If given more time to pursue this project, I would've reached out to each of the streaming platforms to request viewers' TV watching information as it related to my analysis. I would have also tried to delve into imdB's and Letterbox'd's APIs to take a look at whether my reviews reflect those of a greater audience. 
 
 
