@@ -49,8 +49,8 @@ I then came up with a few questions that I was most interested to know:
 1. How many seasons of shows have I seen in a three year span?
 2. How many shows have I rated under 5?
 3. How many shows per streaming platform? 
-4. How many shows do i watch per year?
-5. What genre do i watch the most?
+4. How many shows do I watch per year?
+5. What genre do I watch the most?
 6. What are my top 5 (and top 10) most watched genres?
 
 ## Visuals
